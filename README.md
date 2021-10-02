@@ -1,2 +1,2 @@
 # Farmer Loan Assistant
-by Jayesh
+by Jayesh Kumar Yadav
